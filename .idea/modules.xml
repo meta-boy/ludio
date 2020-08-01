@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ludio.iml" filepath="$PROJECT_DIR$/ludio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ludio_android.iml" filepath="$PROJECT_DIR$/android/ludio_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/ludio_example_android.iml" filepath="$PROJECT_DIR$/example/android/ludio_example_android.iml" />
+    </modules>
+  </component>
+</project>
